@@ -1,5 +1,5 @@
 {
-  "name": "react-floating-label-input",
+  "name": "react-fln",
   "version": "0.0.0-development",
   "description": "React Floating Input element, customizable",
   "main": "src/index.ts",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajaytp7/react-floating-label-input.git"
+    "url": "https://github.com/ajaytp7/react-fln.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -37,8 +37,7 @@
   },
   "release": {
     "branches": [
-      "main",
-      "next"
+      "main"
     ]
   },
   "private": false
