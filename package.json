@@ -1,0 +1,45 @@
+{
+  "name": "react-floating-label-input",
+  "version": "0.0.0-development",
+  "description": "React Floating Input element, customizable",
+  "main": "src/index.ts",
+  "files": [
+    "src/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajaytp7/react-floating-label-input.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "author": "AJAY T P",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "input",
+    "react input",
+    "float input",
+    "react floating input"
+  ],
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.3",
+    "@types/react": "^18.2.39",
+    "react": "^18.2.0",
+    "styled-components": "^6.1.1",
+    "typescript": "^5.3.2",
+    "semantic-release": "^22.0.8"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "typescript": "^5.3.2"
+  },
+  "release": {
+    "branches": [
+      "main",
+      "next"
+    ]
+  },
+  "private": false
+}
